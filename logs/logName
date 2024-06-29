@@ -1,0 +1,4 @@
+20240629	04:38:33	a4ca61ce-3aa3-461d-b0df-bd449c04b053	/new-page.html	GET
+20240629	04:38:33	2523a93c-5fff-4028-85c7-728fad7dd470	ReferenceError: filesPath is not defined
+20240629	04:38:41	bc0b1858-cded-4a66-bea1-6cdaa29f8f09	/new-page.html	GET
+20240629	04:38:41	4bfd1b0b-ccf7-4443-839c-d76a935dcbb1	ReferenceError: filesPath is not defined
